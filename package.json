@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "netlify-cli": "7.0.5"
+    "netlify-cli": "7.1.0"
   },
   "dependencies": {
     "axios": "^0.24.0"
